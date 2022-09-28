@@ -59,6 +59,11 @@ Put all the plots in one figure with a title.
 Look at the seaborn [FacetGrid API reference](https://seaborn.pydata.org/generated/seaborn.FacetGrid.html)
 for data-viz ideas.
 
+### Visualization result
+
+![LE dist by conti](https://user-images.githubusercontent.com/45035308/192678904-9609b4a8-13c5-48fb-9c6e-9f67ff6416e8.png)
+
+
 ## Question 2 -- time evolution of life expectancy by continent
 
 For each continent, use box-and-whisker plots to visualize the time evolution of life expectancy by 
@@ -68,10 +73,20 @@ As in Question 2, make sure your plots are labeled and easy to read, and put all
 Look at the seaborn [FacetGrid API reference](https://seaborn.pydata.org/generated/seaborn.FacetGrid.html)
 for ideas.
 
+### Visualization result
+
+![TE of LE by conti](https://user-images.githubusercontent.com/45035308/192679111-4d7a0ab7-b779-4126-a339-9c20d1b72133.png)
+
+
 ## Question 3 -- life expectancy vs GDP
 
 Use scatter plots to visualize the relationship between life expectancy and GDP per capita. 
 Compare the use of linear and log scales for GDP. Comment on the relationships that seem significant and any outliers you notice.
+
+### Visualization result
+
+![LE vs GDP](https://user-images.githubusercontent.com/45035308/192679191-df3f3ed6-20d3-4f8d-b059-a2681c3ddb0f.png)
+
 
 ## Question 4 -- PDF of life expectancy
 
@@ -81,4 +96,9 @@ Compare the use of linear and log scales for GDP. Comment on the relationships t
 * Consider using [scipy.stats.norm](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html) -- scipy.org
 * Comment briefly on the result (i.e., explain the dominant features in the chart with a few sentences).
   * Make sure to use the results in previous questions to justify your interpretation.
+
+### Visualization result
+
+![Pdf of LE](https://user-images.githubusercontent.com/45035308/192679215-8b78370a-8f6a-4460-b221-02475e00f0c8.png)
+
 

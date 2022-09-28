@@ -101,7 +101,7 @@ Compare the use of linear and log scales for GDP. Comment on the relationships t
 
 ![Pdf of LE](https://user-images.githubusercontent.com/45035308/192679215-8b78370a-8f6a-4460-b221-02475e00f0c8.png)
 
-## Instructions for reproducing those results
+## Instructions for reproducing these results
 
 * Download the tsv data file(gapminder.tsv)
 * Create a new py or ipynb file(referring to hw1_gapminder.ipynb)

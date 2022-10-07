@@ -99,9 +99,8 @@ Compare the use of linear and log scales for GDP. Comment on the relationships t
 
 ### Visualization result
 
-![Pdf of LE](https://user-images.githubusercontent.com/45035308/192679215-8b78370a-8f6a-4460-b221-02475e00f0c8.png)
+![Pdf of LE](https://user-images.githubusercontent.com/45035308/194662126-90190c26-8ab7-4ccd-9037-0254b26184cb.png)
 
-![image](https://user-images.githubusercontent.com/45035308/194658643-09dec1e9-e1ce-4927-9156-4efcfc1c86fc.png)
 
 
 ## Instructions for reproducing these results

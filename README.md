@@ -65,6 +65,10 @@ All plots kept in one figure with column wise separation of continents, and row 
 
 ![Life expectancy distribution by continent](https://user-images.githubusercontent.com/45035308/195228392-9d3e3dc3-cd88-47d0-83e4-9411f4f707ff.png)
 
+#### Observation
+* The distribution over the continents seems significant with year that, as year increases from 1952 to 2007 the life expectancy distribution kept shifting to higher values.
+* Life exp in Asia has been distributed in wide range within it. In Europe it has been distrubuted at high life exp and Oceania has always been above 70 thoughout the timeline of the years shown. 
+
 
 ## Question 2 -- time evolution of life expectancy by continent
 
@@ -81,6 +85,11 @@ Plotted into one figure, by grouping the box plots by year on x axis and separat
 
 ![Time evolution of life expectancy by continent](https://user-images.githubusercontent.com/45035308/195228435-9887c3c2-92de-401c-8a64-c477acd9e4cc.png)
 
+#### Observation
+* As years go on from 1952 to 2007, the life expectancies distribution ranges has been shifted to higher values over all the continents.
+* In Americas continent, the box range(maximum - minumum) has been decreased, whereas in Africa and Oceania continents, it observed increase.
+* For Asia the range(maximum - minumum) almost remained same.And for europe it kept decreasing in initial few decades, and then increased after that gradually.
+
 
 ## Question 3 -- life expectancy vs GDP
 
@@ -94,6 +103,9 @@ Plotted the linear and log scale graphs to compare
 ![Life expectancy vs GDP](https://user-images.githubusercontent.com/45035308/195228481-506a83f5-49b3-43ff-af4b-f5dbba802033.png)
 ![Life expectancy vs GDP(Log)](https://user-images.githubusercontent.com/45035308/195228499-afa8e467-45bf-439d-87b8-4443654b811b.png)
 
+#### Observation
+* Looking at the first scatter plot most of the points are clumped in a small region of y-axis and the pattern we see is dominated by the outliers.
+* With the use of log scale, we can see a linear pattern between lifeExp and gdpPercap.
 
 ## Question 4 -- PDF of life expectancy
 
@@ -108,7 +120,11 @@ Plotted the linear and log scale graphs to compare
 
 Blue curved line represents KDE, where as red line represents normalized distribution 
 
-![PDF of life expectancy](https://user-images.githubusercontent.com/45035308/195228537-5c7e9b0f-98da-4afa-a394-404ffea0db6b.png)
+![PDF of life expectancy](https://user-images.githubusercontent.com/45035308/195231161-07159e41-ef46-4111-9d2e-2e2e5615117e.png)
+
+#### Observation
+* A normal distribution is initially observed, and later with time as the life expectancy has been kept increasing on average over all the continents, the count or density distribution has been more again at higher values.
+* This formed a big hump in the density distrubution plot at higher life expectancies.
 
 
 ## Instructions for reproducing these results

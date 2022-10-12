@@ -61,7 +61,7 @@ for data-viz ideas.
 
 ### Visualization result
 
-![LE dist by conti](https://user-images.githubusercontent.com/45035308/192678904-9609b4a8-13c5-48fb-9c6e-9f67ff6416e8.png)
+![Life expectancy distribution by continent](https://user-images.githubusercontent.com/45035308/195228392-9d3e3dc3-cd88-47d0-83e4-9411f4f707ff.png)
 
 
 ## Question 2 -- time evolution of life expectancy by continent
@@ -75,7 +75,7 @@ for ideas.
 
 ### Visualization result
 
-![TE of LE by conti](https://user-images.githubusercontent.com/45035308/192679111-4d7a0ab7-b779-4126-a339-9c20d1b72133.png)
+![Time evolution of life expectancy by continent](https://user-images.githubusercontent.com/45035308/195228435-9887c3c2-92de-401c-8a64-c477acd9e4cc.png)
 
 
 ## Question 3 -- life expectancy vs GDP
@@ -85,7 +85,8 @@ Compare the use of linear and log scales for GDP. Comment on the relationships t
 
 ### Visualization result
 
-![LE vs GDP](https://user-images.githubusercontent.com/45035308/192679191-df3f3ed6-20d3-4f8d-b059-a2681c3ddb0f.png)
+![Life expectancy vs GDP](https://user-images.githubusercontent.com/45035308/195228481-506a83f5-49b3-43ff-af4b-f5dbba802033.png)
+![Life expectancy vs GDP(Log)](https://user-images.githubusercontent.com/45035308/195228499-afa8e467-45bf-439d-87b8-4443654b811b.png)
 
 
 ## Question 4 -- PDF of life expectancy
@@ -99,8 +100,7 @@ Compare the use of linear and log scales for GDP. Comment on the relationships t
 
 ### Visualization result
 
-![Pdf of LE](https://user-images.githubusercontent.com/45035308/194662126-90190c26-8ab7-4ccd-9037-0254b26184cb.png)
-
+![PDF of life expectancy](https://user-images.githubusercontent.com/45035308/195228537-5c7e9b0f-98da-4afa-a394-404ffea0db6b.png)
 
 
 ## Instructions for reproducing these results

@@ -42,7 +42,7 @@ g.fig.savefig('figs/Life expectancy vs GDP(Log).png')
 
 from scipy import stats  
 
-plt.figure(figsize=(20,10))
+plt.figure(figsize=(10,5))
 ax = sns.histplot(data=dataset, x="lifeExp", stat='density', kde=True, label='instances')
 x0, x1 = ax.get_xlim()
 mu, sigma = stats.norm.fit(dataset['lifeExp'])

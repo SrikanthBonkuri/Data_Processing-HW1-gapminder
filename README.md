@@ -77,6 +77,8 @@ for ideas.
 
 ### Visualization result
 
+Plotted into one figure, by grouping the box plots by year on x axis and separated by continent with hue color
+
 ![Time evolution of life expectancy by continent](https://user-images.githubusercontent.com/45035308/195228435-9887c3c2-92de-401c-8a64-c477acd9e4cc.png)
 
 
@@ -86,6 +88,8 @@ Use scatter plots to visualize the relationship between life expectancy and GDP 
 Compare the use of linear and log scales for GDP. Comment on the relationships that seem significant and any outliers you notice.
 
 ### Visualization result
+
+Plotted the linear and log scale graphs to compare
 
 ![Life expectancy vs GDP](https://user-images.githubusercontent.com/45035308/195228481-506a83f5-49b3-43ff-af4b-f5dbba802033.png)
 ![Life expectancy vs GDP(Log)](https://user-images.githubusercontent.com/45035308/195228499-afa8e467-45bf-439d-87b8-4443654b811b.png)
@@ -101,6 +105,8 @@ Compare the use of linear and log scales for GDP. Comment on the relationships t
   * Make sure to use the results in previous questions to justify your interpretation.
 
 ### Visualization result
+
+Blue curved line represents KDE, where as red line represents normalized distribution 
 
 ![PDF of life expectancy](https://user-images.githubusercontent.com/45035308/195228537-5c7e9b0f-98da-4afa-a394-404ffea0db6b.png)
 

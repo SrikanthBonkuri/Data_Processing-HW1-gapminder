@@ -61,6 +61,8 @@ for data-viz ideas.
 
 ### Visualization result
 
+All plots kept in one figure with column wise separation of continents, and row wise separation of year.
+
 ![Life expectancy distribution by continent](https://user-images.githubusercontent.com/45035308/195228392-9d3e3dc3-cd88-47d0-83e4-9411f4f707ff.png)
 
 
